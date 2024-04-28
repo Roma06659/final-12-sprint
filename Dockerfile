@@ -1,6 +1,6 @@
 FROM golang:1.22.0
 
-WORKDIR /sprint-12
+WORKDIR /final-12-sprint
 
 COPY . .
 
